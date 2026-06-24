@@ -3,15 +3,6 @@
 Ege Universitesi - Bilgisayar Muhendisligi Bolumu
 Yapay Zeka Yontemleri (3+0) - 2025-2026 Bahar Donemi - Proje 2
 
-## Takim
-
-| Uye | Rol |
-|-----|-----|
-| Mert | Genetik Algoritma Cekirdek Gelistirme |
-| Yigit | Veri Toplama, On Isleme & Feature Engineering |
-| Mert Kerem | Trading Stratejisi & Backtesting |
-| Gorkem Ege | Deneysel Calismalar & Rapor/Dokumantasyon |
-
 ## Proje Ozeti
 
 Bu projede Genetik Algoritmalar (GA) kullanilarak Bitcoin (BTC) trading stratejilerinin parametreleri optimize edilmektedir. Sistem, tarihsel BTC fiyat verilerinden teknik indikatorler cikararak, GA ile en uygun trading parametrelerini (RSI/MACD/BB esikleri, stop-loss/take-profit seviyeleri, indikatör agirliklari) bulmaktadir.
